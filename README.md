@@ -44,6 +44,10 @@
 
 [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 
+### Redis
+
+[The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
+
 ### 网络应用程序框架
 
 [Ruby on Rails 實戰聖經](https://ihower.tw/rails4/)
