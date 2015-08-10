@@ -72,6 +72,8 @@
 
 [語意化版本 2.0.0](http://semver.org/lang/zh-TW/)
 
+[做一個網站多少錢](http://www.inside.com.tw/2015/06/05/how-much-a-web)
+
 ## 英文资源
 
 ### Git
